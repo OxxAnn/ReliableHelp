@@ -1,0 +1,21 @@
+/* .nav {
+    font-family: 'Poppins', sans-serif;
+} */
+
+.navbar {
+    font-family: 'Poppins', sans-serif;
+}
+.image {
+    background-image: url("https://images.unsplash.com/photo-1496092607007-ca127e0b6a10?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=910&q=80");
+}
+.top {
+    font-family: 'Poppins', sans-serif;
+}
+.pic {
+    background-image: url("https://images.unsplash.com/photo-1513519245088-0e12902e5a38?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80");
+}
+.dog {
+    background-image: url("https://images.unsplash.com/photo-1546975490-e8b92a360b24?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80");
+    background-size: cover;
+    background-position: center;
+}
